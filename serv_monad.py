@@ -9,7 +9,7 @@ import os
 
 
 TEST_SERVER = "www.google.com"
-HOME_SERVER = "68.145.81.144"
+HOME_SERVER = ""
 def is_connected(server):
   try:
     # see if we can resolve the host name -- tells us if there is
